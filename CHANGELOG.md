@@ -1,4 +1,5 @@
 
+
 # Changelog
 All notable changes to this template will be documented in this file.
 
@@ -35,6 +36,8 @@ translation authors keep things up-to-date.
 #### Security
 - Section about "changelog" vs "CHANGELOG"
 
+---
+
 ### **Angular**
 
 #### Added
@@ -42,6 +45,7 @@ translation authors keep things up-to-date.
 
 #### Fixed
 - Remove exclusionary mentions of "open source" since this project can.
+---
 
 ### **Laravel**
 
