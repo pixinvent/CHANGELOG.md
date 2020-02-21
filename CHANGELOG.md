@@ -36,7 +36,7 @@ translation authors keep things up-to-date.
 #### Security
 - Section about "changelog" vs "CHANGELOG"
 
----
+----
 
 ### **Angular**
 
@@ -45,7 +45,7 @@ translation authors keep things up-to-date.
 
 #### Fixed
 - Remove exclusionary mentions of "open source" since this project can.
----
+----
 
 ### **Laravel**
 
