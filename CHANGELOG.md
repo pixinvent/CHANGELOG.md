@@ -1,11 +1,10 @@
-
-
 # Changelog
 All notable changes to this template will be documented in this file.
 
-## [Unreleased]
+## [1.1.0] -  [Unreleased] - 2017-06-20 
 
-## [1.1.0] - 2017-06-20
+### **HTML**
+---
 #### Added
 - New visual identity by [@tylerfortune8](https://github.com/tylerfortune8).
 - Version navigation.
@@ -36,19 +35,20 @@ translation authors keep things up-to-date.
 #### Security
 - Section about "changelog" vs "CHANGELOG"
 
-----
+
 
 ### **Angular**
+---
 
 #### Added
 - RU translation from [@aishek](https://github.com/aishek).
 
 #### Fixed
 - Remove exclusionary mentions of "open source" since this project can.
-----
+
 
 ### **Laravel**
-
+***
 #### Added
 - RU translation from [@aishek](https://github.com/aishek).
 
